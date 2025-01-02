@@ -187,5 +187,30 @@
       "name": "New Year's Day",
       "description": "Celebration of the New Year."
     }
+  ],
+  "attendance": [
+    {
+      "id": 1,
+      "username": "john_doe",
+      "markedAt": "2025-01-02T09:00:00"
+    }
+  ],
+  "leaveRequests": [
+    {
+      "id": 1,
+      "username": "john_doe",
+      "role": "employee",
+      "reason": "Personal leave",
+      "status": "Pending",
+      "submittedAt": "2025-01-01T15:30:00"
+    },
+    {
+      "id": 2,
+      "username": "jane_smith",
+      "role": "employee",
+      "reason": "Medical leave",
+      "status": "Approved",
+      "submittedAt": "2025-01-01T12:00:00"
+    }
   ]
 }
