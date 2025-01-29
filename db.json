@@ -151,7 +151,7 @@
     {
       "id": "2",
       "date": "2025-01-26",
-      "type": "public holiday",
+      "type": " public",
       "name": "Republic Day",
       "description": "Commemorates the adoption of the Indian Constitution on January 26, 1950."
     },
@@ -186,7 +186,7 @@
     {
       "id": "7",
       "date": "2025-08-15",
-      "type": "public holiday",
+      "type": " public",
       "name": "Independence Day",
       "description": "Celebrates India's independence from British rule on August 15, 1947."
     },
@@ -200,7 +200,7 @@
     {
       "id": "9",
       "date": "2025-10-02",
-      "type": "public holiday",
+      "type": " public",
       "name": "Gandhi Jayanti",
       "description": "Honors the birth anniversary of Mahatma Gandhi."
     },
@@ -221,7 +221,7 @@
     {
       "id": "12",
       "date": "2025-12-25",
-      "type": "public holiday",
+      "type": " public",
       "name": "Christmas",
       "description": "Celebration of the birth of Jesus Christ."
     }
