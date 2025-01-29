@@ -10,24 +10,6 @@
       "dob": "2003-10-05"
     },
     {
-      "id": "b503",
-      "name": "eshwar",
-      "email": "eshwar@gmail.com",
-      "mobile": "8888888888",
-      "password": "Eshwar@123",
-      "role": "employee",
-      "dob": "1999-12-31"
-    },
-    {
-      "id": "fd51",
-      "name": "vijay",
-      "email": "vijay@gmail.com",
-      "mobile": "7777777777",
-      "password": "Vijay@123",
-      "role": "employee",
-      "dob": "2024-12-17"
-    },
-    {
       "id": "6ef0",
       "name": "don",
       "email": "don@gmail.com",
@@ -161,39 +143,90 @@
   "holidays": [
     {
       "id": "1",
-      "date": "2024-01-01",
-      "type": "public",
-      "name": "New Year's Day",
-      "description": "Celebration of the New Year."
+      "date": "2025-01-14",
+      "type": "festival",
+      "name": "Makar Sankranti",
+      "description": "Harvest festival celebrated across India, marking the transition of the sun into the zodiac sign Capricorn."
     },
     {
       "id": "2",
-      "date": "2024-01-26",
-      "type": "public",
+      "date": "2025-01-26",
+      "type": "public holiday",
       "name": "Republic Day",
-      "description": "Commemoration of the Indian Republic."
+      "description": "Commemorates the adoption of the Indian Constitution on January 26, 1950."
     },
     {
       "id": "3",
-      "date": "2024-10-31",
+      "date": "2025-03-14",
+      "type": "festival",
+      "name": "Holi",
+      "description": "Festival of colors celebrating the arrival of spring and the victory of good over evil."
+    },
+    {
+      "id": "4",
+      "date": "2025-04-11",
+      "type": "festival",
+      "name": "Mahavir Jayanti",
+      "description": "Celebrates the birth of Lord Mahavir, the 24th Tirthankara of Jainism."
+    },
+    {
+      "id": "5",
+      "date": "2025-04-14",
+      "type": "festival",
+      "name": "Baisakhi",
+      "description": "Harvest festival celebrated in Punjab, marking the Punjabi New Year."
+    },
+    {
+      "id": "6",
+      "date": "2025-05-14",
+      "type": "festival",
+      "name": "Eid al-Fitr",
+      "description": "Marks the end of Ramadan, the Islamic holy month of fasting."
+    },
+    {
+      "id": "7",
+      "date": "2025-08-15",
+      "type": "public holiday",
+      "name": "Independence Day",
+      "description": "Celebrates India's independence from British rule on August 15, 1947."
+    },
+    {
+      "id": "8",
+      "date": "2025-09-22",
+      "type": "festival",
+      "name": "Navratri",
+      "description": "Nine-night festival celebrating the goddess Durga in her various forms."
+    },
+    {
+      "id": "9",
+      "date": "2025-10-02",
+      "type": "public holiday",
+      "name": "Gandhi Jayanti",
+      "description": "Honors the birth anniversary of Mahatma Gandhi."
+    },
+    {
+      "id": "10",
+      "date": "2025-10-21",
       "type": "festival",
       "name": "Diwali",
       "description": "Festival of Lights celebrated across India."
     },
     {
-      "id": "4",
-      "date": "2025-01-01",
-      "type": "public",
-      "name": "New Year's Day",
-      "description": "Celebration of the New Year."
+      "id": "11",
+      "date": "2025-11-05",
+      "type": "festival",
+      "name": "Guru Nanak Jayanti",
+      "description": "Celebrates the birth of Guru Nanak, the founder of Sikhism."
+    },
+    {
+      "id": "12",
+      "date": "2025-12-25",
+      "type": "public holiday",
+      "name": "Christmas",
+      "description": "Celebration of the birth of Jesus Christ."
     }
   ],
   "attendance": [
-    {
-      "id": 1,
-      "username": "john_doe",
-      "markedAt": "2025-01-02T09:00:00"
-    },
     {
       "username": "don",
       "id": "6ef0",
@@ -202,20 +235,13 @@
   ],
   "leaveRequests": [
     {
-      "id": 1,
-      "username": "john_doe",
-      "role": "employee",
-      "reason": "Personal leave",
+      "username": "don",
+      "designation": "employee",
+      "reason": "vacation",
+      "leaveDate": "2025-02-02",
       "status": "Pending",
-      "submittedAt": "2025-01-01T15:30:00"
-    },
-    {
-      "id": 2,
-      "username": "jane_smith",
-      "role": "employee",
-      "reason": "Medical leave",
-      "status": "Approved",
-      "submittedAt": "2025-01-01T12:00:00"
+      "submittedAt": "2025-01-29 19:45:51",
+      "id": 3
     }
   ]
 }
