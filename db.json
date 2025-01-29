@@ -151,7 +151,7 @@
     {
       "id": "2",
       "date": "2025-01-26",
-      "type": " public",
+      "type": "public",
       "name": "Republic Day",
       "description": "Commemorates the adoption of the Indian Constitution on January 26, 1950."
     },
@@ -164,64 +164,71 @@
     },
     {
       "id": "4",
+      "date": "2025-03-30",
+      "type": "festival",
+      "name": "Ugadi",
+      "description": "Celebration of Telugu New Year"
+    },
+    {
+      "id": "5",
       "date": "2025-04-11",
       "type": "festival",
       "name": "Mahavir Jayanti",
       "description": "Celebrates the birth of Lord Mahavir, the 24th Tirthankara of Jainism."
     },
     {
-      "id": "5",
+      "id": "6",
       "date": "2025-04-14",
       "type": "festival",
       "name": "Baisakhi",
       "description": "Harvest festival celebrated in Punjab, marking the Punjabi New Year."
     },
     {
-      "id": "6",
+      "id": "7",
       "date": "2025-05-14",
       "type": "festival",
       "name": "Eid al-Fitr",
       "description": "Marks the end of Ramadan, the Islamic holy month of fasting."
     },
     {
-      "id": "7",
+      "id": "8",
       "date": "2025-08-15",
-      "type": " public",
+      "type": "public",
       "name": "Independence Day",
       "description": "Celebrates India's independence from British rule on August 15, 1947."
     },
     {
-      "id": "8",
+      "id": "9",
       "date": "2025-09-22",
       "type": "festival",
       "name": "Navratri",
       "description": "Nine-night festival celebrating the goddess Durga in her various forms."
     },
     {
-      "id": "9",
+      "id": "10",
       "date": "2025-10-02",
-      "type": " public",
+      "type": "public",
       "name": "Gandhi Jayanti",
       "description": "Honors the birth anniversary of Mahatma Gandhi."
     },
     {
-      "id": "10",
+      "id": "11",
       "date": "2025-10-21",
       "type": "festival",
       "name": "Diwali",
       "description": "Festival of Lights celebrated across India."
     },
     {
-      "id": "11",
+      "id": "12",
       "date": "2025-11-05",
       "type": "festival",
       "name": "Guru Nanak Jayanti",
       "description": "Celebrates the birth of Guru Nanak, the founder of Sikhism."
     },
     {
-      "id": "12",
+      "id": "13",
       "date": "2025-12-25",
-      "type": " public",
+      "type": "public",
       "name": "Christmas",
       "description": "Celebration of the birth of Jesus Christ."
     }
