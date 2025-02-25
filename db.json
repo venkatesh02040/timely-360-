@@ -1,6 +1,16 @@
 {
   "users": [
     {
+      "id": "0bd4",
+      "name": "guest",
+      "email": "guest@gmail.com",
+      "mobile": "9876543210",
+      "password": "Password@123",
+      "role": "employee",
+      "dob": "2025-01-31",
+      "photo": "https://static.vecteezy.com/system/resources/previews/025/667/911/original/guest-icon-design-vector.jpg"
+    },
+    {
       "id": "acc4",
       "name": "Admin",
       "email": "admin@gmail.com",
